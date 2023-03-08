@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=894ce6&height=300&section=header&text=Xeayron&fontSize=150&fontAlign=36&fontAlignY=30" />
 <h2></h2>
 <h3>Xeayron#0001</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeayron&label=Profile%20views&color=4e51a2&style=flat" alt="xeayron" width="125" height="25" /> </p>
