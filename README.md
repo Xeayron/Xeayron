@@ -1,5 +1,5 @@
-<h2></h2>
-<h3>Xeayron#0001</h3>
+
+<h1>Xeayron#0001</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeayron&label=Profile%20views&color=4e51a2&style=flat" alt="xeayron" width="125" height="25" /> </p>
 <br>
 <h3 align="left">Things i know...</h3>
